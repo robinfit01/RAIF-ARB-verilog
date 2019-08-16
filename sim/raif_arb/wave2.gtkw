@@ -1,0 +1,105 @@
+[*]
+[*] GTKWave Analyzer v3.3.71 (w)1999-2016 BSI
+[*] Mon Jul 22 02:05:39 2019
+[*]
+[dumpfile] "G:\VIVADO_WORK_SPACE\dram_arbitrator_v2\sim\raif_arb\wave2.vcd"
+[dumpfile_mtime] "Mon Jul 22 02:05:20 2019"
+[dumpfile_size] 2123280
+[savefile] "G:\VIVADO_WORK_SPACE\dram_arbitrator_v2\sim\raif_arb\wave2.gtkw"
+[timestart] 0
+[size] 1920 1001
+[pos] -1 -1
+*-21.000000 1040000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 239
+[signals_width] 180
+[sst_expanded] 1
+[sst_vpaned_height] 287
+@28
+tb2_raif_arb.clk
+tb2_raif_arb.clk_ref
+tb2_raif_arb.dram_initdone
+tb2_raif_arb.rst_n
+@800028
+tb2_raif_arb.rd_req_[1:0]
+@28
+[color] 2
+(0)tb2_raif_arb.rd_req_[1:0]
+[color] 2
+(1)tb2_raif_arb.rd_req_[1:0]
+@1001200
+-group_end
+@800028
+tb2_raif_arb.rd_grant_[1:0]
+@28
+[color] 2
+(0)tb2_raif_arb.rd_grant_[1:0]
+[color] 2
+(1)tb2_raif_arb.rd_grant_[1:0]
+@1001200
+-group_end
+@800028
+tb2_raif_arb.rd_finish_[1:0]
+@28
+[color] 2
+(0)tb2_raif_arb.rd_finish_[1:0]
+[color] 2
+(1)tb2_raif_arb.rd_finish_[1:0]
+@1001200
+-group_end
+@22
+tb2_raif_arb.rd_addr_[47:0]
+tb2_raif_arb.rd_data_[31:0]
+tb2_raif_arb.rd_num_[19:0]
+@800028
+tb2_raif_arb.wr_req_[1:0]
+@28
+[color] 3
+(0)tb2_raif_arb.wr_req_[1:0]
+[color] 3
+(1)tb2_raif_arb.wr_req_[1:0]
+@1001200
+-group_end
+@800028
+tb2_raif_arb.wr_grant_[1:0]
+@28
+[color] 3
+(0)tb2_raif_arb.wr_grant_[1:0]
+[color] 3
+(1)tb2_raif_arb.wr_grant_[1:0]
+@1001200
+-group_end
+@800028
+tb2_raif_arb.wr_finish_[1:0]
+@28
+[color] 3
+(0)tb2_raif_arb.wr_finish_[1:0]
+[color] 3
+(1)tb2_raif_arb.wr_finish_[1:0]
+@1001200
+-group_end
+@22
+tb2_raif_arb.wr_addr_[47:0]
+tb2_raif_arb.wr_data_[31:0]
+tb2_raif_arb.wr_num_[19:0]
+@28
+tb2_raif_arb.rd_req
+tb2_raif_arb.rd_grant
+tb2_raif_arb.rd_finish
+@25
+tb2_raif_arb.rd_addr[23:0]
+@22
+tb2_raif_arb.rd_data[15:0]
+@25
+tb2_raif_arb.rd_num[9:0]
+@28
+tb2_raif_arb.wr_req
+tb2_raif_arb.wr_grant
+tb2_raif_arb.wr_finish
+@25
+tb2_raif_arb.wr_addr[23:0]
+@22
+tb2_raif_arb.wr_data[15:0]
+@25
+tb2_raif_arb.wr_num[9:0]
+[pattern_trace] 1
+[pattern_trace] 0

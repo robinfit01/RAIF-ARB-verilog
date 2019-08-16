@@ -1,0 +1,84 @@
+[*]
+[*] GTKWave Analyzer v3.3.71 (w)1999-2016 BSI
+[*] Sun Jul 21 02:20:00 2019
+[*]
+[dumpfile] "G:\VIVADO_WORK_SPACE\dram_arbitrator_v2\sim\wrreq_sel\wave.vcd"
+[dumpfile_mtime] "Sun Jul 21 02:13:15 2019"
+[dumpfile_size] 1335649
+[savefile] "G:\VIVADO_WORK_SPACE\dram_arbitrator_v2\sim\wrreq_sel\wave.gtkw"
+[timestart] 151455000
+[size] 1920 1001
+[pos] -202 -202
+*-18.000000 152370000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_wrreq_sel.
+[treeopen] tb_wrreq_sel.u_wrreq_sel.
+[sst_width] 239
+[signals_width] 180
+[sst_expanded] 1
+[sst_vpaned_height] 287
+@28
+tb_wrreq_sel.clk
+tb_wrreq_sel.dram_initdone
+tb_wrreq_sel.on
+tb_wrreq_sel.rst
+tb_wrreq_sel.rst_n
+@800028
+tb_wrreq_sel.wr_req_[2:0]
+@28
+[color] 2
+(0)tb_wrreq_sel.wr_req_[2:0]
+[color] 2
+(1)tb_wrreq_sel.wr_req_[2:0]
+[color] 2
+(2)tb_wrreq_sel.wr_req_[2:0]
+@1001200
+-group_end
+@22
+tb_wrreq_sel.wr_addr_[83:0]
+tb_wrreq_sel.wr_num_[29:0]
+@800028
+tb_wrreq_sel.wr_grant_[2:0]
+@28
+[color] 3
+(0)tb_wrreq_sel.wr_grant_[2:0]
+[color] 3
+(1)tb_wrreq_sel.wr_grant_[2:0]
+[color] 3
+(2)tb_wrreq_sel.wr_grant_[2:0]
+@1001200
+-group_end
+@22
+tb_wrreq_sel.wr_data_[383:0]
+@800028
+tb_wrreq_sel.wr_finish_[2:0]
+@28
+[color] 6
+(0)tb_wrreq_sel.wr_finish_[2:0]
+[color] 6
+(1)tb_wrreq_sel.wr_finish_[2:0]
+[color] 6
+(2)tb_wrreq_sel.wr_finish_[2:0]
+@1001200
+-group_end
+@28
+tb_wrreq_sel.wr_req
+tb_wrreq_sel.wr_grant
+tb_wrreq_sel.wr_finish
+@22
+tb_wrreq_sel.wr_addr[27:0]
+tb_wrreq_sel.wr_num[9:0]
+tb_wrreq_sel.wr_data[127:0]
+@28
+tb_wrreq_sel.u_wrreq_sel.empty
+tb_wrreq_sel.u_wrreq_sel.sw[2:0]
+@25
+tb_wrreq_sel.u_wrreq_sel.st[2:0]
+@28
+tb_wrreq_sel.u_wrreq_sel.ct[1:0]
+@24
+tb_wrreq_sel.u_wrreq_sel.ctbf[1:0]
+@28
+tb_wrreq_sel.u_wrreq_sel.q[2:0]
+tb_wrreq_sel.u_wrreq_sel.qbf[2:0]
+[pattern_trace] 1
+[pattern_trace] 0

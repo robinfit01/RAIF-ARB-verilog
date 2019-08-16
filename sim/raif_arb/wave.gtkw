@@ -1,0 +1,424 @@
+[*]
+[*] GTKWave Analyzer v3.3.71 (w)1999-2016 BSI
+[*] Sun Jul 21 11:59:28 2019
+[*]
+[dumpfile] "G:\VIVADO_WORK_SPACE\dram_arbitrator_v2\sim\raif_arb\wave.vcd"
+[dumpfile_mtime] "Sun Jul 21 11:51:31 2019"
+[dumpfile_size] 1676452
+[savefile] "G:\VIVADO_WORK_SPACE\dram_arbitrator_v2\sim\raif_arb\wave.gtkw"
+[timestart] 0
+[size] 1920 1001
+[pos] -1 -1
+*-22.000000 4920000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_raif_arb.
+[treeopen] tb_raif_arb.u_raif_arb.
+[treeopen] tb_raif_arb.u_raif_arb.genblk1.
+[sst_width] 239
+[signals_width] 180
+[sst_expanded] 1
+[sst_vpaned_height] 287
+@28
+tb_raif_arb.clk
+tb_raif_arb.rst
+tb_raif_arb.dram_initdone
+@800028
+tb_raif_arb.rd_req_[1:0]
+@28
+[color] 2
+(0)tb_raif_arb.rd_req_[1:0]
+[color] 2
+(1)tb_raif_arb.rd_req_[1:0]
+@800028
+tb_raif_arb.rd_finish_[1:0]
+@28
+[color] 2
+(0)tb_raif_arb.rd_finish_[1:0]
+[color] 2
+(1)tb_raif_arb.rd_finish_[1:0]
+@1001200
+-group_end
+-group_end
+@22
+tb_raif_arb.rd_addr_[55:0]
+@c00022
+tb_raif_arb.rd_data_[255:0]
+@28
+(0)tb_raif_arb.rd_data_[255:0]
+(1)tb_raif_arb.rd_data_[255:0]
+(2)tb_raif_arb.rd_data_[255:0]
+(3)tb_raif_arb.rd_data_[255:0]
+(4)tb_raif_arb.rd_data_[255:0]
+(5)tb_raif_arb.rd_data_[255:0]
+(6)tb_raif_arb.rd_data_[255:0]
+(7)tb_raif_arb.rd_data_[255:0]
+(8)tb_raif_arb.rd_data_[255:0]
+(9)tb_raif_arb.rd_data_[255:0]
+(10)tb_raif_arb.rd_data_[255:0]
+(11)tb_raif_arb.rd_data_[255:0]
+(12)tb_raif_arb.rd_data_[255:0]
+(13)tb_raif_arb.rd_data_[255:0]
+(14)tb_raif_arb.rd_data_[255:0]
+(15)tb_raif_arb.rd_data_[255:0]
+(16)tb_raif_arb.rd_data_[255:0]
+(17)tb_raif_arb.rd_data_[255:0]
+(18)tb_raif_arb.rd_data_[255:0]
+(19)tb_raif_arb.rd_data_[255:0]
+(20)tb_raif_arb.rd_data_[255:0]
+(21)tb_raif_arb.rd_data_[255:0]
+(22)tb_raif_arb.rd_data_[255:0]
+(23)tb_raif_arb.rd_data_[255:0]
+(24)tb_raif_arb.rd_data_[255:0]
+(25)tb_raif_arb.rd_data_[255:0]
+(26)tb_raif_arb.rd_data_[255:0]
+(27)tb_raif_arb.rd_data_[255:0]
+(28)tb_raif_arb.rd_data_[255:0]
+(29)tb_raif_arb.rd_data_[255:0]
+(30)tb_raif_arb.rd_data_[255:0]
+(31)tb_raif_arb.rd_data_[255:0]
+(32)tb_raif_arb.rd_data_[255:0]
+(33)tb_raif_arb.rd_data_[255:0]
+(34)tb_raif_arb.rd_data_[255:0]
+(35)tb_raif_arb.rd_data_[255:0]
+(36)tb_raif_arb.rd_data_[255:0]
+(37)tb_raif_arb.rd_data_[255:0]
+(38)tb_raif_arb.rd_data_[255:0]
+(39)tb_raif_arb.rd_data_[255:0]
+(40)tb_raif_arb.rd_data_[255:0]
+(41)tb_raif_arb.rd_data_[255:0]
+(42)tb_raif_arb.rd_data_[255:0]
+(43)tb_raif_arb.rd_data_[255:0]
+(44)tb_raif_arb.rd_data_[255:0]
+(45)tb_raif_arb.rd_data_[255:0]
+(46)tb_raif_arb.rd_data_[255:0]
+(47)tb_raif_arb.rd_data_[255:0]
+(48)tb_raif_arb.rd_data_[255:0]
+(49)tb_raif_arb.rd_data_[255:0]
+(50)tb_raif_arb.rd_data_[255:0]
+(51)tb_raif_arb.rd_data_[255:0]
+(52)tb_raif_arb.rd_data_[255:0]
+(53)tb_raif_arb.rd_data_[255:0]
+(54)tb_raif_arb.rd_data_[255:0]
+(55)tb_raif_arb.rd_data_[255:0]
+(56)tb_raif_arb.rd_data_[255:0]
+(57)tb_raif_arb.rd_data_[255:0]
+(58)tb_raif_arb.rd_data_[255:0]
+(59)tb_raif_arb.rd_data_[255:0]
+(60)tb_raif_arb.rd_data_[255:0]
+(61)tb_raif_arb.rd_data_[255:0]
+(62)tb_raif_arb.rd_data_[255:0]
+(63)tb_raif_arb.rd_data_[255:0]
+(64)tb_raif_arb.rd_data_[255:0]
+(65)tb_raif_arb.rd_data_[255:0]
+(66)tb_raif_arb.rd_data_[255:0]
+(67)tb_raif_arb.rd_data_[255:0]
+(68)tb_raif_arb.rd_data_[255:0]
+(69)tb_raif_arb.rd_data_[255:0]
+(70)tb_raif_arb.rd_data_[255:0]
+(71)tb_raif_arb.rd_data_[255:0]
+(72)tb_raif_arb.rd_data_[255:0]
+(73)tb_raif_arb.rd_data_[255:0]
+(74)tb_raif_arb.rd_data_[255:0]
+(75)tb_raif_arb.rd_data_[255:0]
+(76)tb_raif_arb.rd_data_[255:0]
+(77)tb_raif_arb.rd_data_[255:0]
+(78)tb_raif_arb.rd_data_[255:0]
+(79)tb_raif_arb.rd_data_[255:0]
+(80)tb_raif_arb.rd_data_[255:0]
+(81)tb_raif_arb.rd_data_[255:0]
+(82)tb_raif_arb.rd_data_[255:0]
+(83)tb_raif_arb.rd_data_[255:0]
+(84)tb_raif_arb.rd_data_[255:0]
+(85)tb_raif_arb.rd_data_[255:0]
+(86)tb_raif_arb.rd_data_[255:0]
+(87)tb_raif_arb.rd_data_[255:0]
+(88)tb_raif_arb.rd_data_[255:0]
+(89)tb_raif_arb.rd_data_[255:0]
+(90)tb_raif_arb.rd_data_[255:0]
+(91)tb_raif_arb.rd_data_[255:0]
+(92)tb_raif_arb.rd_data_[255:0]
+(93)tb_raif_arb.rd_data_[255:0]
+(94)tb_raif_arb.rd_data_[255:0]
+(95)tb_raif_arb.rd_data_[255:0]
+(96)tb_raif_arb.rd_data_[255:0]
+(97)tb_raif_arb.rd_data_[255:0]
+(98)tb_raif_arb.rd_data_[255:0]
+(99)tb_raif_arb.rd_data_[255:0]
+(100)tb_raif_arb.rd_data_[255:0]
+(101)tb_raif_arb.rd_data_[255:0]
+(102)tb_raif_arb.rd_data_[255:0]
+(103)tb_raif_arb.rd_data_[255:0]
+(104)tb_raif_arb.rd_data_[255:0]
+(105)tb_raif_arb.rd_data_[255:0]
+(106)tb_raif_arb.rd_data_[255:0]
+(107)tb_raif_arb.rd_data_[255:0]
+(108)tb_raif_arb.rd_data_[255:0]
+(109)tb_raif_arb.rd_data_[255:0]
+(110)tb_raif_arb.rd_data_[255:0]
+(111)tb_raif_arb.rd_data_[255:0]
+(112)tb_raif_arb.rd_data_[255:0]
+(113)tb_raif_arb.rd_data_[255:0]
+(114)tb_raif_arb.rd_data_[255:0]
+(115)tb_raif_arb.rd_data_[255:0]
+(116)tb_raif_arb.rd_data_[255:0]
+(117)tb_raif_arb.rd_data_[255:0]
+(118)tb_raif_arb.rd_data_[255:0]
+(119)tb_raif_arb.rd_data_[255:0]
+(120)tb_raif_arb.rd_data_[255:0]
+(121)tb_raif_arb.rd_data_[255:0]
+(122)tb_raif_arb.rd_data_[255:0]
+(123)tb_raif_arb.rd_data_[255:0]
+(124)tb_raif_arb.rd_data_[255:0]
+(125)tb_raif_arb.rd_data_[255:0]
+(126)tb_raif_arb.rd_data_[255:0]
+(127)tb_raif_arb.rd_data_[255:0]
+(128)tb_raif_arb.rd_data_[255:0]
+(129)tb_raif_arb.rd_data_[255:0]
+(130)tb_raif_arb.rd_data_[255:0]
+(131)tb_raif_arb.rd_data_[255:0]
+(132)tb_raif_arb.rd_data_[255:0]
+(133)tb_raif_arb.rd_data_[255:0]
+(134)tb_raif_arb.rd_data_[255:0]
+(135)tb_raif_arb.rd_data_[255:0]
+(136)tb_raif_arb.rd_data_[255:0]
+(137)tb_raif_arb.rd_data_[255:0]
+(138)tb_raif_arb.rd_data_[255:0]
+(139)tb_raif_arb.rd_data_[255:0]
+(140)tb_raif_arb.rd_data_[255:0]
+(141)tb_raif_arb.rd_data_[255:0]
+(142)tb_raif_arb.rd_data_[255:0]
+(143)tb_raif_arb.rd_data_[255:0]
+(144)tb_raif_arb.rd_data_[255:0]
+(145)tb_raif_arb.rd_data_[255:0]
+(146)tb_raif_arb.rd_data_[255:0]
+(147)tb_raif_arb.rd_data_[255:0]
+(148)tb_raif_arb.rd_data_[255:0]
+(149)tb_raif_arb.rd_data_[255:0]
+(150)tb_raif_arb.rd_data_[255:0]
+(151)tb_raif_arb.rd_data_[255:0]
+(152)tb_raif_arb.rd_data_[255:0]
+(153)tb_raif_arb.rd_data_[255:0]
+(154)tb_raif_arb.rd_data_[255:0]
+(155)tb_raif_arb.rd_data_[255:0]
+(156)tb_raif_arb.rd_data_[255:0]
+(157)tb_raif_arb.rd_data_[255:0]
+(158)tb_raif_arb.rd_data_[255:0]
+(159)tb_raif_arb.rd_data_[255:0]
+(160)tb_raif_arb.rd_data_[255:0]
+(161)tb_raif_arb.rd_data_[255:0]
+(162)tb_raif_arb.rd_data_[255:0]
+(163)tb_raif_arb.rd_data_[255:0]
+(164)tb_raif_arb.rd_data_[255:0]
+(165)tb_raif_arb.rd_data_[255:0]
+(166)tb_raif_arb.rd_data_[255:0]
+(167)tb_raif_arb.rd_data_[255:0]
+(168)tb_raif_arb.rd_data_[255:0]
+(169)tb_raif_arb.rd_data_[255:0]
+(170)tb_raif_arb.rd_data_[255:0]
+(171)tb_raif_arb.rd_data_[255:0]
+(172)tb_raif_arb.rd_data_[255:0]
+(173)tb_raif_arb.rd_data_[255:0]
+(174)tb_raif_arb.rd_data_[255:0]
+(175)tb_raif_arb.rd_data_[255:0]
+(176)tb_raif_arb.rd_data_[255:0]
+(177)tb_raif_arb.rd_data_[255:0]
+(178)tb_raif_arb.rd_data_[255:0]
+(179)tb_raif_arb.rd_data_[255:0]
+(180)tb_raif_arb.rd_data_[255:0]
+(181)tb_raif_arb.rd_data_[255:0]
+(182)tb_raif_arb.rd_data_[255:0]
+(183)tb_raif_arb.rd_data_[255:0]
+(184)tb_raif_arb.rd_data_[255:0]
+(185)tb_raif_arb.rd_data_[255:0]
+(186)tb_raif_arb.rd_data_[255:0]
+(187)tb_raif_arb.rd_data_[255:0]
+(188)tb_raif_arb.rd_data_[255:0]
+(189)tb_raif_arb.rd_data_[255:0]
+(190)tb_raif_arb.rd_data_[255:0]
+(191)tb_raif_arb.rd_data_[255:0]
+(192)tb_raif_arb.rd_data_[255:0]
+(193)tb_raif_arb.rd_data_[255:0]
+(194)tb_raif_arb.rd_data_[255:0]
+(195)tb_raif_arb.rd_data_[255:0]
+(196)tb_raif_arb.rd_data_[255:0]
+(197)tb_raif_arb.rd_data_[255:0]
+(198)tb_raif_arb.rd_data_[255:0]
+(199)tb_raif_arb.rd_data_[255:0]
+(200)tb_raif_arb.rd_data_[255:0]
+(201)tb_raif_arb.rd_data_[255:0]
+(202)tb_raif_arb.rd_data_[255:0]
+(203)tb_raif_arb.rd_data_[255:0]
+(204)tb_raif_arb.rd_data_[255:0]
+(205)tb_raif_arb.rd_data_[255:0]
+(206)tb_raif_arb.rd_data_[255:0]
+(207)tb_raif_arb.rd_data_[255:0]
+(208)tb_raif_arb.rd_data_[255:0]
+(209)tb_raif_arb.rd_data_[255:0]
+(210)tb_raif_arb.rd_data_[255:0]
+(211)tb_raif_arb.rd_data_[255:0]
+(212)tb_raif_arb.rd_data_[255:0]
+(213)tb_raif_arb.rd_data_[255:0]
+(214)tb_raif_arb.rd_data_[255:0]
+(215)tb_raif_arb.rd_data_[255:0]
+(216)tb_raif_arb.rd_data_[255:0]
+(217)tb_raif_arb.rd_data_[255:0]
+(218)tb_raif_arb.rd_data_[255:0]
+(219)tb_raif_arb.rd_data_[255:0]
+(220)tb_raif_arb.rd_data_[255:0]
+(221)tb_raif_arb.rd_data_[255:0]
+(222)tb_raif_arb.rd_data_[255:0]
+(223)tb_raif_arb.rd_data_[255:0]
+(224)tb_raif_arb.rd_data_[255:0]
+(225)tb_raif_arb.rd_data_[255:0]
+(226)tb_raif_arb.rd_data_[255:0]
+(227)tb_raif_arb.rd_data_[255:0]
+(228)tb_raif_arb.rd_data_[255:0]
+(229)tb_raif_arb.rd_data_[255:0]
+(230)tb_raif_arb.rd_data_[255:0]
+(231)tb_raif_arb.rd_data_[255:0]
+(232)tb_raif_arb.rd_data_[255:0]
+(233)tb_raif_arb.rd_data_[255:0]
+(234)tb_raif_arb.rd_data_[255:0]
+(235)tb_raif_arb.rd_data_[255:0]
+(236)tb_raif_arb.rd_data_[255:0]
+(237)tb_raif_arb.rd_data_[255:0]
+(238)tb_raif_arb.rd_data_[255:0]
+(239)tb_raif_arb.rd_data_[255:0]
+(240)tb_raif_arb.rd_data_[255:0]
+(241)tb_raif_arb.rd_data_[255:0]
+(242)tb_raif_arb.rd_data_[255:0]
+(243)tb_raif_arb.rd_data_[255:0]
+(244)tb_raif_arb.rd_data_[255:0]
+(245)tb_raif_arb.rd_data_[255:0]
+(246)tb_raif_arb.rd_data_[255:0]
+(247)tb_raif_arb.rd_data_[255:0]
+(248)tb_raif_arb.rd_data_[255:0]
+(249)tb_raif_arb.rd_data_[255:0]
+(250)tb_raif_arb.rd_data_[255:0]
+(251)tb_raif_arb.rd_data_[255:0]
+(252)tb_raif_arb.rd_data_[255:0]
+(253)tb_raif_arb.rd_data_[255:0]
+(254)tb_raif_arb.rd_data_[255:0]
+(255)tb_raif_arb.rd_data_[255:0]
+@1401200
+-group_end
+@800028
+tb_raif_arb.rd_grant_[1:0]
+@28
+[color] 2
+(0)tb_raif_arb.rd_grant_[1:0]
+[color] 2
+(1)tb_raif_arb.rd_grant_[1:0]
+@1001200
+-group_end
+@c00022
+tb_raif_arb.rd_num_[19:0]
+@28
+(0)tb_raif_arb.rd_num_[19:0]
+(1)tb_raif_arb.rd_num_[19:0]
+(2)tb_raif_arb.rd_num_[19:0]
+(3)tb_raif_arb.rd_num_[19:0]
+(4)tb_raif_arb.rd_num_[19:0]
+(5)tb_raif_arb.rd_num_[19:0]
+(6)tb_raif_arb.rd_num_[19:0]
+(7)tb_raif_arb.rd_num_[19:0]
+(8)tb_raif_arb.rd_num_[19:0]
+(9)tb_raif_arb.rd_num_[19:0]
+(10)tb_raif_arb.rd_num_[19:0]
+(11)tb_raif_arb.rd_num_[19:0]
+(12)tb_raif_arb.rd_num_[19:0]
+(13)tb_raif_arb.rd_num_[19:0]
+(14)tb_raif_arb.rd_num_[19:0]
+(15)tb_raif_arb.rd_num_[19:0]
+(16)tb_raif_arb.rd_num_[19:0]
+(17)tb_raif_arb.rd_num_[19:0]
+(18)tb_raif_arb.rd_num_[19:0]
+(19)tb_raif_arb.rd_num_[19:0]
+@1401200
+-group_end
+@800028
+tb_raif_arb.wr_req_[1:0]
+@28
+[color] 3
+(0)tb_raif_arb.wr_req_[1:0]
+[color] 3
+(1)tb_raif_arb.wr_req_[1:0]
+@1001200
+-group_end
+@800028
+tb_raif_arb.wr_finish_[1:0]
+@28
+[color] 3
+(0)tb_raif_arb.wr_finish_[1:0]
+[color] 3
+(1)tb_raif_arb.wr_finish_[1:0]
+@1001200
+-group_end
+@22
+tb_raif_arb.wr_addr_[55:0]
+tb_raif_arb.wr_data_[255:0]
+@800028
+tb_raif_arb.wr_grant_[1:0]
+@28
+[color] 3
+(0)tb_raif_arb.wr_grant_[1:0]
+[color] 3
+(1)tb_raif_arb.wr_grant_[1:0]
+@1001200
+-group_end
+@c00022
+tb_raif_arb.wr_num_[19:0]
+@28
+(0)tb_raif_arb.wr_num_[19:0]
+(1)tb_raif_arb.wr_num_[19:0]
+(2)tb_raif_arb.wr_num_[19:0]
+(3)tb_raif_arb.wr_num_[19:0]
+(4)tb_raif_arb.wr_num_[19:0]
+(5)tb_raif_arb.wr_num_[19:0]
+(6)tb_raif_arb.wr_num_[19:0]
+(7)tb_raif_arb.wr_num_[19:0]
+(8)tb_raif_arb.wr_num_[19:0]
+(9)tb_raif_arb.wr_num_[19:0]
+(10)tb_raif_arb.wr_num_[19:0]
+(11)tb_raif_arb.wr_num_[19:0]
+(12)tb_raif_arb.wr_num_[19:0]
+(13)tb_raif_arb.wr_num_[19:0]
+(14)tb_raif_arb.wr_num_[19:0]
+(15)tb_raif_arb.wr_num_[19:0]
+(16)tb_raif_arb.wr_num_[19:0]
+(17)tb_raif_arb.wr_num_[19:0]
+(18)tb_raif_arb.wr_num_[19:0]
+(19)tb_raif_arb.wr_num_[19:0]
+@1401200
+-group_end
+@22
+tb_raif_arb.rd_data[127:0]
+@28
+[color] 6
+tb_raif_arb.rd_req
+[color] 6
+tb_raif_arb.rd_grant
+[color] 6
+tb_raif_arb.rd_finish
+@24
+[color] 6
+tb_raif_arb.rd_num[9:0]
+[color] 6
+tb_raif_arb.rd_addr[27:0]
+@29
+[color] 7
+tb_raif_arb.wr_req
+@28
+[color] 7
+tb_raif_arb.wr_grant
+[color] 7
+tb_raif_arb.wr_finish
+@24
+[color] 7
+tb_raif_arb.wr_addr[27:0]
+[color] 7
+tb_raif_arb.wr_num[9:0]
+@22
+[color] 7
+tb_raif_arb.wr_data[127:0]
+[pattern_trace] 1
+[pattern_trace] 0
